@@ -5,7 +5,7 @@ Version: 0.1.0
 Date: 2019/06/15
 Author: Original by David Arthur and Sergei Vassilvitskii, modifications by C.X.C <keep9553@gmail.com>
 Maintainer: C.X.C <keep9553@gmail.com>
-Description: Use K-means++ to find the beginning center point to improve K-means.
+Description: Use k-means++ to find the beginning center point to improve k-means.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
